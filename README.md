@@ -1,4 +1,4 @@
-potest.loc
-==========
+Twig Gettext Extractor Test
+===========================
 
-testing project for Twig-Extractor
+Test project for [Twig Gettext Extractor](https://github.com/umpirsky/Twig-Gettext-Extractor).
