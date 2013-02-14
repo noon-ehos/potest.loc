@@ -1,0 +1,23 @@
+{
+    "name": "noon-ehos/potest.loc",
+    "type": "application",
+    "description": "testing project for Twig-Gettext-Extractor by umpirsky",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Саша Стаменковић",
+            "email": "umpirsky@gmail.com"
+        },
+        {
+            "name": "Александр Дюдюн",
+            "email": "a.dyudyun@gmail.com"
+        }
+    ],
+    "require": {
+       "umpirsky/twig-gettext-extractor": "dev-master"
+    },
+    "require-dev": {
+        "umpirsky/twig-gettext-extractor": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
